@@ -1,0 +1,13 @@
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.exe
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.deps.json
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.runtimeconfig.json
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.runtimeconfig.dev.json
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.dll
+C:\Users\lavin\Documents\Curso\AbsRPG\bin\Debug\netcoreapp3.1\AbsRPG.pdb
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.csprojAssemblyReference.cache
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.AssemblyInfoInputs.cache
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.AssemblyInfo.cs
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.dll
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.pdb
+C:\Users\lavin\Documents\Curso\AbsRPG\obj\Debug\netcoreapp3.1\AbsRPG.genruntimeconfig.cache
